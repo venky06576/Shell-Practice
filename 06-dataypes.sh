@@ -4,4 +4,4 @@ NUMBER1=100;
 NUMBER2=200;
 
 sum=$(($NUMBER1+$NUMBER2))
-echo " sum is :: $sum";
+echo " sum of $NUMBER1 and $NUMBER2 is :: $sum";
