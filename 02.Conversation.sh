@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "Hello World"
-echo "started training for shell script conversation"
+echo "Trump: Hello Musk ,How are you"
+echo "Musk : I am good how are you"
+echo "Trump: can we disccuss about the business"
+echo "Musk: can we meet tonight to discuss "
