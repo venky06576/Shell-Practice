@@ -3,4 +3,4 @@ Arr =("INDIA" "AUSTRALIA" "AFRICA" "ENGLAND" )
 
 # To Print all Countries
 
-echo "Full countries list :: $Arr[@]"
+echo "Full countries list :: ${Arr[@]}"
