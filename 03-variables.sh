@@ -2,7 +2,7 @@
 
 
 PERSON1=trump;
-PERSSON2=Musk;
+PERSON2=Musk;
 
 echo "$PERSON1: Hello PERSON2 ,How are you"
 echo "$PERSON2 : I am good how are you"
