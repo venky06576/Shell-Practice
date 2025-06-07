@@ -1,5 +1,9 @@
 #!/bin/bash
 
-MOVIES=("Sachin", "Dravid", "Yuvraj", "Dhone", "Kohil")
+MOVIES=("Sachin" "Dravid" "Yuvraj" "Dhone" "Kohil")
 
-echo "Movies list is :: ${MOVIES[0]}";
+echo "First favorite cricker is :: ${MOVIES[0]}";
+
+echo "First favorite cricker is :: ${MOVIES[2]}";
+
+echo "First favorite cricker is :: ${MOVIES[4]}";
