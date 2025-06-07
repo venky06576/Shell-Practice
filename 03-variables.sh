@@ -1,10 +1,6 @@
 #!/bin/bash
 
+Var_1='vodnla'
+Var_2="Venkatesh"
 
-PERSON1=trump;
-PERSON2=Musk;
-
-echo "$PERSON1: Hello PERSON2 ,How are you"
-echo "$PERSON2 : I am good how are you"
-echo "$PERSON1: can we disccuss about the business"
-echo "$PERSON2: can we meet tonight to discuss "
+echo "My name is $Var_1 $var_2"
