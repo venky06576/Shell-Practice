@@ -1,7 +1,7 @@
 #/bin/bash
 
 echo -n "Enter the Number::"
-read -x
+read x
 
 if [ $((x % 2)) == ];
 then
