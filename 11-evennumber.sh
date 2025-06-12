@@ -1,14 +1,10 @@
-#/bin/bash
 
-echo -n "Enter the Number::"
+echo -n "Enter Number: "
 read x
 
-if [ $((x % 2)) == 0];
-then
-    echo "Number is even "
 
+
+# Check if the entered number is even
+if [ $((x % 2)) == 0 ]; then
+  echo "Number is Even"
 fi
-
-    
-
-  
